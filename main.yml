@@ -1,6 +1,7 @@
 ---
 - name: show hostnames
   hosts: all
-    tasks:
+  tasks:
     - name: execute hostname command
       command: hostname
+# adding a line for version 1.1
