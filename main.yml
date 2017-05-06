@@ -1,6 +1,6 @@
 ---
 - name: show hostnames
   hosts: all
-    tasks:
+  tasks:
     - name: execute hostname command
       command: hostname
