@@ -5,3 +5,4 @@
     - name: execute hostname command
       command: hostname
 # adding a line for version 1.1
+adding new brache after checkout
